@@ -12,14 +12,16 @@
 3. Three
 
 > Blockquote More fun text!
+
 * More
 * Bullet
 * Points
+
 fancy line below:
 --- 
 'looking fancy' 
-# code block
+``` code block
 'Today is a wonderful
-day to do fun things'
+day to do fun things'```
 
 ![Image](http://url/a.png)https://pixabay.com/illustrations/clip-art-clipart-owl-bird-wildlife-4675943/
