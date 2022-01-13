@@ -22,6 +22,7 @@ fancy line below:
 'looking fancy' 
 ``` code block
 'Today is a wonderful
-day to do fun things'```
+day to do fun things'
+```
 
 ![Image](http://url/a.png)
