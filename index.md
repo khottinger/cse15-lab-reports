@@ -1,4 +1,5 @@
 *Hello*  World!
+
 **Bold this line**
 
 # Heading 1
@@ -11,7 +12,9 @@
 2. Two
 3. Three
 
-> Blockquote More fun text!
+** More Bold Text
+
+>  More fun text!
 
 * More
 * Bullet
@@ -25,4 +28,4 @@ fancy line below:
 day to do fun things'
 ```
 
-![Image](http://url/a.png)
+
