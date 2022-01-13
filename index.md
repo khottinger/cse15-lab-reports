@@ -24,4 +24,4 @@ fancy line below:
 'Today is a wonderful
 day to do fun things'```
 
-![Image](http://url/a.png)https://pixabay.com/illustrations/clip-art-clipart-owl-bird-wildlife-4675943/
+![Image](http://url/a.png)
