@@ -1,4 +1,5 @@
-## LAB 1 REPORT
+# LAB 1 REPORT
+---
                                                                  
 # Installing VSCode
 ---
@@ -36,4 +37,4 @@ had transfered over!
 ---
 ![Image]()
 
-![Image](Screenshot.png)
+
