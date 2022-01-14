@@ -4,19 +4,19 @@
 ---
 Dowloading VSCode was quite simple. I followed the link posted on the lab guidelines and downloaded the version for MAC.
 When istallation was complete, this was my view:
-![Image]()
+![Image](sc1.png)
 
 # Remotely Connecting
 ---
 The first step in remotely connecting was to locate my CSE account and update my password. Once that was settled I entered
 the `ssh` command in a new terminal to remotely connect to my server. I was prompted for a password and upon entering it, I connected!
-![Image]()
+![Image](sc2.png)
 
 # Trying Commands
 ---
 I started playing around with some basic terminal commands. Different `ls` commands show different amounts of detail. Also, some commands
 were unsuccessful such as `cat` and `cp`. These commands may not work on the client computer but they **DO** work on the server.
-![Image]()
+![Image](sc3.png)
 
 # Moving Files with `scp`
 ---
