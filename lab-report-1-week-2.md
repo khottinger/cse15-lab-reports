@@ -27,7 +27,7 @@ were unsuccessful such as `cat` and `cp`. These commands may not work on the cli
 Next, I created file called WhereAmI.java on my computer in VSCode. Since this file exists on my computer I need to copy it over to the remote
 server using an `scp` command. I copied the WhereAmI.java file over to my ieng6 and when I logged back into the server and hit `ls` my file
 had transfered over!
-![Image]()
+![Image](sc4.png)
 
 # Setting an SSH Key
 ---
