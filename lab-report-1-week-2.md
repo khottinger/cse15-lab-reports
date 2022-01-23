@@ -3,14 +3,13 @@
                                                                  
 # Installing VSCode
 ---
-Dowloading VSCode was quite simple. I followed the link([a link!](https://code.visualstudio.com/) posted on the lab guidelines and downloaded the version for MAC. I went ahead and chose
-a theme for my environment. When istallation was complete, this was my view:
+Dowloading VSCode was quite simple. I followed the link [Download VSCode](https://code.visualstudio.com/) posted on the lab guidelines and downloaded the version for MAC. I went ahead and chose a theme for my environment. When istallation was complete, this was my view:
 
 ![Image](sc1.png)
 
 # Remotely Connecting
 ---
-The first step in remotely connecting was to locate my CSE account and update my password using this link [b link!](https://sdacs.ucsd.edu/~icc/index.php) Once that was settled I entered the `ssh` command in a new terminal to remotely connect to my server. I was prompted for a password and upon entering it, I connected:
+The first step in remotely connecting was to locate my CSE account and update my password [Find CSE Account](https://sdacs.ucsd.edu/~icc/index.php) Once that was settled I entered the `ssh` command in a new terminal to remotely connect to my server. I was prompted for a password and upon entering it, I connected:
 
 ![Image](sc2.png)
 
