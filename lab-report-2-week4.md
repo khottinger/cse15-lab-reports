@@ -1,6 +1,15 @@
-#Here is the start of Lab report 4
+# Lab Report Week 4
 
-Fixing Bugs with my Lab friends!
-Code Change #1
-[put a pic in here]
+## Code Change 1
+Screenshot of Code change:
+
+
+
+## Code Change 2
+Screenshot of Code change(edits were made at same time as Code change 1):
+
+
+
+## Code Change 3
+Screenshot of Code change :
 
