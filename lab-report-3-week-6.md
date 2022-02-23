@@ -20,7 +20,7 @@ With the simple command of `ssh ieng6` I was able to login without using my pass
 
 # Quick `scp` Demo
 
-I `scp` over a random java 'DemoSend.java` file to my server using my alias. I was not prompted for a password and upon logging in and hitting `ls` my file had 
+I `scp` over a random java `DemoSend.java` file to my server using my alias. I was not prompted for a password and upon logging in and hitting `ls` my file had 
 been copied over successfully
 
 ![Image](lr3.4.png)
