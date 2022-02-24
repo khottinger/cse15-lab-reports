@@ -1,4 +1,8 @@
-## LAB REPORT 4
-[My Markdown Repo](https://github.com/khottinger/markdown-parse/tree/main)
+# LAB REPORT 4
 
-[The Repo Reviewed](https://github.com/yi113/markdown-parse/blob/main/MarkdownParse.java)
+[My MarkdownParse](https://github.com/khottinger/markdown-parse/tree/main)
+
+[Reviewed MarkdownParse](https://github.com/yi113/markdown-parse/blob/main/MarkdownParse.java)
+
+# My Implementation 
+### 
